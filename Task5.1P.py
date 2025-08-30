@@ -1,4 +1,4 @@
-Code:
+# Code:
 
 import tkinter as tk
 import lgpio
